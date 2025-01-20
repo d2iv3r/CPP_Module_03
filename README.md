@@ -1,4 +1,4 @@
-# C++ Module: Inheritance
+# C++ Module 03:
 
 ## Overview
 
